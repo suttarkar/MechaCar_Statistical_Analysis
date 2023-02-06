@@ -53,7 +53,7 @@ lot 3 t-test
 
 ![](resources/lot3ttest.png)
 
-
+Similarly to the summary statistics shown above, there is something happening in the third lot. The first and second t-test show that they do not have a statistically significant p-value, while lot 3 seems to have a statistically significant p-value of 0.1589. 
 
 ### Study Design: MechaCar vs Competition
 
