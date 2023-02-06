@@ -61,9 +61,12 @@ Write a short description of a statistical study that can quantify how the Mecha
 
 What metric or metrics are you going to test?
 * k
+
 What is the null hypothesis or alternative hypothesis?
 * k
+
 What statistical test would you use to test the hypothesis? And why?
 * k
+
 What data is needed to run the statistical test?
 * k
