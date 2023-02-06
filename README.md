@@ -59,14 +59,16 @@ Similarly to the summary statistics shown above, there is something happening in
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
+
 What metric or metrics are you going to test?
-* k
+* The metrics I would use would be horse power, feul efficiency, and cost. 
 
 What is the null hypothesis or alternative hypothesis?
-* k
+* The null hypothesis would be that there is not a statistically significant difference in the mean horse power and feul efficiency of MechaCar and their competitor.
+* The alternative hypothesis would be that there is a statistically significant difference in the mean horse power and feul efficiency of MechaCar and their competitor.
 
 What statistical test would you use to test the hypothesis? And why?
-* k
+* To test the hypothesis, the best choice would be to use a two sample t-test as this would allow for the comparison of the feul efficiency and horse power means between MechaCar and their competitor.
 
 What data is needed to run the statistical test?
 * k
