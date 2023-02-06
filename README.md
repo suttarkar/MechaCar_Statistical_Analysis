@@ -71,4 +71,4 @@ What statistical test would you use to test the hypothesis? And why?
 * To test the hypothesis, the best choice would be to use a two sample t-test as this would allow for the comparison of the feul efficiency and horse power means between MechaCar and their competitor.
 
 What data is needed to run the statistical test?
-* k
+* The data would have to be very similar in terms of scale and units used. To form a strong claim we would need at least 100 samples. If more samples are provided, the claim can be made stronger.
