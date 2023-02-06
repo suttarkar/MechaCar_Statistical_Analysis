@@ -1,7 +1,11 @@
 # MechaCar Statistical Analysis
 
 ## Overview/Purpose
-
+Analyzing a "MechaCar" prototype dataset by:
+* Using linear regression
+* Getting summary statistics of Suspension Coils
+* Performing t-tests on the suspension coil data to check if any of the 3 manufacturing lots have a statistically significant difference from the mean population
+* Designing a study to compare "MechaCar" vehicles and vehicles made by other manufacturers 
 
 ## Results
 
